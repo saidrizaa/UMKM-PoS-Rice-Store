@@ -1,0 +1,6 @@
+{
+  "name": "Mandiri Rice Mill PoS",
+  "description": "Marketplace and Point of Sale (PoS) application for Mandiri Rice Mill SME, featuring product management, cashier system, and transaction history.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
